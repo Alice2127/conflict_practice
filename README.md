@@ -78,3 +78,4 @@ Now you have successfully resolved a conflict using Git, GitHub, and pull reques
 
 # コンフリクト解消の練習-mainブランチの編集
 hogehoge
+
